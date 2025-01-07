@@ -34,7 +34,7 @@ namespace SqlConnectionApp
             foreach (var c in sel1)
             {
 
-                //Console.WriteLine(c.ProductID);
+                Console.WriteLine(c.ProductID);
             }
 
 
